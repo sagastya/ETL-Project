@@ -1,2 +1,4 @@
-# ETL-Project
-Team project with classmates from Georgia Tech Bootcamp
+# ETL - Extract, Transform, Load 
+
+## Georgia Schools by Zipcode for Home Buyers
+
