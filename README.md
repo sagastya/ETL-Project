@@ -10,3 +10,7 @@ The purpose of this project is to find a dataset on the web and perform ETL - Ex
        * PostgreSQL
   2. ER Diagram Tool
        * QuickDBD 
+
+### Credits
+    * @sagastya
+    * @nirgunjoshi
