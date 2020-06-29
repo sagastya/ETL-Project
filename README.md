@@ -5,3 +5,8 @@ The purpose of this project is to find a dataset on the web and perform ETL - Ex
 
 
 
+### Tools used in this Project:
+  1. SQL 
+       * PostgreSQL
+  2. ER Diagram Tool
+       * QuickDBD 
