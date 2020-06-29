@@ -1,4 +1,4 @@
 # ETL - Extract, Transform, Load 
 
-## Georgia Schools by Zipcode for Home Buyers
+## Georgia Schools and Home Prices by Zipcode for Home Buyers
 
